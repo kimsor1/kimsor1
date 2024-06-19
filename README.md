@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=kimsor1&show_icons=true&theme=radical" alt="kimsor1's GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsor1&layout=compact" alt="Top Langs" />
 </div>
