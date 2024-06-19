@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=sori's%20github&fontSize=90" />
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=sori's%20github&fontSize=90" />
+
 <h3>📍 인적사항</h3>
 <hr>
 <b>이름</b> : 김소리 <br>
