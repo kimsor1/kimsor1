@@ -9,7 +9,7 @@
 
 <hr>
 
-<h3>📚 Tech Stack</h3>
+<h3>📚 기술 스택</h3>
 
 <b>swift</b><br><br>
 <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
