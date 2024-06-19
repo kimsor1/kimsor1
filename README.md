@@ -22,6 +22,7 @@
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kimsor1&show_icons=true&theme=radical" alt="kimsor1's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsor1&layout=compact" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=kimsor1&show_icons=true&theme=radical" alt="kimsor1's GitHub stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsor1&layout=compact" alt="Top Langs" height="180" />
+
 </div>
