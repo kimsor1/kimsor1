@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=sori's%20github&fontSize=90" />
 
 <h3>인적사항</h3>
-- 이름 : 김소리 <br>
+- <b>이름</b> : 김소리 <br>
 - 생년월일 : 1999.04.06 <br>
 - Email : imoiksr@gmail.com <br>
 
