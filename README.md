@@ -16,6 +16,12 @@
 
 <hr>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/kimsor1?pet-id=1" width="1000" height="120"/>
+</a>
+
+<hr>
+
 <img src="https://github-readme-stats.vercel.app/api?username=kimsor1&show_icons=true&theme=radical" alt="kimsor1's GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsor1&layout=compact" alt="Top Langs" />
 </div>
