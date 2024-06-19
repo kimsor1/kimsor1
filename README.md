@@ -29,12 +29,9 @@
 <hr>
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/kimsor1"
+<img src="https://render.gitanimals.org/farms/kimsor1"
   width="600"
-  height="300"
-/>
-</a>
+  height="300"/>
 </a>
 
 <hr>
