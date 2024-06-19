@@ -36,6 +36,14 @@
 />
 </a>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/kimsor1"
+  width="600"
+  height="300"
+/>
+</a>
+
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kimsor1&show_icons=true&theme=radical" alt="kimsor1's GitHub stats" height="180" />
